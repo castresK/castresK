@@ -1,28 +1,41 @@
-# Hi, I'm Kristine! 👋
+# Welcome to Kristine's GitHub Space 👋✨
 
-Welcome to my GitHub profile! I'm a passionate developer who loves creating fun and interactive applications, especially in **Unity** and **Flutter**. I also have experience working with **databases**, **API integration**, and **game development**. Here's a little more about me:
+![Kristine's Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+Kristine's+GitHub+Space)
 
-## 🔭 Current Projects
-- **PetPal** 🐾 – A virtual pet game built in Unity, allowing users to interact with pets, track progress, and save data using PlayerPrefs and databases.
-- **NoodleDoodle** 🖌 – A drawing app build in python .
-- **Secret** 🍳 – A website where user can sign in, create an account, post a images or a status, and interact with friends. 
+## 🌱 About Me
+Hi! I'm Kristine, a passionate developer who enjoys creating fun and interactive applications, especially in **Unity** and **Flutter**. While I love coding, I find designing equally exciting. It's all about making creative projects come to life! 😄
+
+I'm a 2nd-year IT student, and while I'm still exploring which path to take, I'm excited about the journey ahead! Let's see where it takes me next year!
+
+## 🔭 What I'm Currently Working On
+- **PetPal** – A virtual pet game built in Unity 🐾
+- **Booked Me** – A room reservation system 📚
+- **Secret** – A social media website project 🍳
+
+## 🐋 What I'm Currently Learning
+- Advanced **Unity** techniques
+- **Mobile app development** using Flutter
+- More on **database integration** with Unity
+
+## 💬 Ask Me About
+- **UI/UX Design**
+- **Web design and development**
+- **Game development**
+- **Balancing academic life with projects** and exploring new tech
+- Anything you're curious about! I'm always up for a discussion. 😊
 
 ## 💻 Tech Stack
 - **Languages**: Kotlin, C#, PHP, HTML/CSS, JavaScript, SQL
 - **Frameworks/Libraries**: Unity, Flutter, Android Studio, TextMeshPro
 - **Tools**: Git, Visual Studio Code, Unity Asset Store, Cisco Packet Tracer
-- **Databases**: MySQL, SQLite
-- **Other**: API integrations, database connectivity with UnityWebRequest
+- **Design Tools**: Figma, Canva
 
-## 🌱 Learning & Growing
-- Exploring more advanced Unity techniques, mobile app development, and improving game UI/UX.
-- Continuous learning about science, technology, and how it contributes to human flourishing.
+## 📊 GitHub Stats
 
-## 📫 Let's Connect!
-- **Email**: kristine@example.com
-- **LinkedIn**: www.linkedin.com/in/kristinecastres
-  
+![Kristine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kristine&show_icons=true&theme=radical)
 
 ---
 
-*Thanks for visiting my GitHub! Feel free to check out my repositories and get in touch for collaborations or questions.*
+Thanks for stopping by! Feel free to check out my projects or connect with me:
+- **Email**: kristine@example.com
+- **LinkedIn**: [www.linkedin.com/in/kristinecastres](https://www.linkedin.com/in/kristinecastres)
