@@ -2,7 +2,7 @@
 
 # Welcome to Kristine's GitHub Space 👋✨
 
-![Kristine's Banner](Kristine.png)
+![Kristine's Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+Kristine's+GitHub+Space)
 
 ## 🌱 About Me
 Hi! I'm Kristine, a passionate developer who enjoys creating fun and interactive applications, especially in **Unity** and **Flutter**. While I love coding, I find designing equally exciting. It's all about making creative projects come to life! 😄
@@ -10,34 +10,50 @@ Hi! I'm Kristine, a passionate developer who enjoys creating fun and interactive
 I'm a 2nd-year IT student, and while I'm still exploring which path to take, I'm excited about the journey ahead! Let's see where it takes me next year!
 
 ## 🔭 What I'm Currently Working On
-- **PetPal** – A virtual pet game built in Unity 🐾
-- **Booked Me** – A room reservation system 📚
-- **Secret** – A social media website project 🍳
+<p align="center">
+  <ul>
+    <li><b>PetPal</b> – A virtual pet game built in Unity 🐾</li>
+    <li><b>Booked Me</b> – A room reservation system 📚</li>
+    <li><b>Secret</b> – A social media website project 🍳</li>
+  </ul>
+</p>
 
 ## 🐋 What I'm Currently Learning
-- Advanced **Unity** techniques
-- **Mobile app development** using Flutter
-- More on **database integration** with Unity
+<p align="center">
+  <ul>
+    <li>Advanced <b>Unity</b> techniques</li>
+    <li><b>Mobile app development</b> using Flutter</li>
+    <li>More on <b>database integration</b> with Unity</li>
+  </ul>
+</p>
 
 ## 💬 Ask Me About
-- **UI/UX Design**
-- **Web design and development**
-- **Game development**
-- **Balancing academic life with projects** and exploring new tech
-- Anything you're curious about! I'm always up for a discussion. 😊
+<p align="center">
+  <ul>
+    <li><b>UI/UX Design</b></li>
+    <li><b>Web design and development</b></li>
+    <li><b>Game development</b></li>
+    <li><b>Balancing academic life with projects</b> and exploring new tech</li>
+    <li>Anything you're curious about! I'm always up for a discussion 😊</li>
+  </ul>
+</p>
 
 ## 💻 Tech Stack
-- **Languages**: Kotlin, C#, PHP, HTML/CSS, JavaScript, SQL
-- **Frameworks/Libraries**: Unity, Flutter, Android Studio, TextMeshPro
-- **Tools**: Git, Visual Studio Code, Unity Asset Store, Cisco Packet Tracer
-- **Design Tools**: Figma, Canva
+<p align="center">
+  <ul>
+    <li><b>Languages</b>: Kotlin, C#, PHP, HTML/CSS, JavaScript, SQL</li>
+    <li><b>Frameworks/Libraries</b>: Unity, Flutter, Android Studio, TextMeshPro</li>
+    <li><b>Tools</b>: Git, Visual Studio Code, Unity Asset Store, Cisco Packet Tracer</li>
+    <li><b>Design Tools</b>: Figma, Canva</li>
+  </ul>
+</p>
 
 ## 📊 GitHub Stats
-
 ![Kristine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kristine&show_icons=true&theme=radical)
 
----
-
 Thanks for stopping by! Feel free to check out my projects or connect with me:
-- **Email**: kristine@example.com
-- **LinkedIn**: [www.linkedin.com/in/kristinecastres](https://www.linkedin.com/in/kristinecastres)
+
+**Email**: kristine@example.com  
+**LinkedIn**: [www.linkedin.com/in/kristinecastres](https://www.linkedin.com/in/kristinecastres)
+
+</div>
