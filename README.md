@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating fun 
 
 ## 📫 Let's Connect!
 - **Email**: kristine@example.com
-- **LinkedIn**: https://www.linkedin.com/in/kristine-duey-castres-3804ba296/
--  (Currently working on an interactive portfolio inspired by Valorant)
+- **LinkedIn**: www.linkedin.com/in/kristinecastres
+  
 
 ---
 
