@@ -1,4 +1,4 @@
-# Hi, I'm Kristine! 👋😚😊🤩
+# Hi, I'm Kristine! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves creating fun and interactive applications, especially in **Unity** and **Flutter**. I also have experience working with **databases**, **API integration**, and **game development**. Here's a little more about me:
 
