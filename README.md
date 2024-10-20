@@ -2,7 +2,7 @@
 
 # Welcome to Kristine's GitHub Space 👋✨
 
-![Kristine's Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+Kristine's+GitHub+Space)
+![Kristine's Banner](Kristine.png)
 
 ## 🌱 About Me
 Hi! I'm Kristine, a passionate developer who enjoys creating fun and interactive applications, especially in **Unity** and **Flutter**. While I love coding, I find designing equally exciting. It's all about making creative projects come to life! 😄
@@ -11,7 +11,7 @@ I'm a 2nd-year IT student, and while I'm still exploring which path to take, I'm
 
 ## 🔭 What I'm Currently Working On
 <p align="center">
-  <ul>
+  <ul style="list-style-position: inside;">
     <li><b>PetPal</b> – A virtual pet game built in Unity 🐾</li>
     <li><b>Booked Me</b> – A room reservation system 📚</li>
     <li><b>Secret</b> – A social media website project 🍳</li>
@@ -20,7 +20,7 @@ I'm a 2nd-year IT student, and while I'm still exploring which path to take, I'm
 
 ## 🐋 What I'm Currently Learning
 <p align="center">
-  <ul>
+  <ul style="list-style-position: inside;">
     <li>Advanced <b>Unity</b> techniques</li>
     <li><b>Mobile app development</b> using Flutter</li>
     <li>More on <b>database integration</b> with Unity</li>
@@ -29,7 +29,7 @@ I'm a 2nd-year IT student, and while I'm still exploring which path to take, I'm
 
 ## 💬 Ask Me About
 <p align="center">
-  <ul>
+  <ul style="list-style-position: inside;">
     <li><b>UI/UX Design</b></li>
     <li><b>Web design and development</b></li>
     <li><b>Game development</b></li>
@@ -40,7 +40,7 @@ I'm a 2nd-year IT student, and while I'm still exploring which path to take, I'm
 
 ## 💻 Tech Stack
 <p align="center">
-  <ul>
+  <ul style="list-style-position: inside;">
     <li><b>Languages</b>: Kotlin, C#, PHP, HTML/CSS, JavaScript, SQL</li>
     <li><b>Frameworks/Libraries</b>: Unity, Flutter, Android Studio, TextMeshPro</li>
     <li><b>Tools</b>: Git, Visual Studio Code, Unity Asset Store, Cisco Packet Tracer</li>
