@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating fun 
 
 ## 🔭 Current Projects
 - **PetPal** 🐾 – A virtual pet game built in Unity, allowing users to interact with pets, track progress, and save data using PlayerPrefs and databases.
-- **Booked Me** 📚 – A room reservation system where users can sign in, reserve rooms, and manage bookings.
+- **NoodleDoodle** 🖌 – A drawing app build in python .
 - **Secret** 🍳 – A website where user can sign in, create an account, post a images or a status, and interact with friends. 
 
 ## 💻 Tech Stack
