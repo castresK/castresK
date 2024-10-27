@@ -42,8 +42,8 @@ I'm a 2nd-year IT student, and while I'm still exploring which path to take, I'm
 <p align="center">
   <ul style="list-style-position: inside;">
     <li><b>Languages</b>: Kotlin, C#, PHP, HTML/CSS, JavaScript, SQL</li>
-    <li><b>Frameworks/Libraries</b>: Unity, Flutter, Android Studio, TextMeshPro</li>
-    <li><b>Tools</b>: Git, Visual Studio Code, Unity Asset Store, Cisco Packet Tracer</li>
+    <li><b>Frameworks/Libraries</b>: Unity, Flutter, Android Studio</li>
+    <li><b>Tools</b>: Git, Visual Studio Code</li>
     <li><b>Design Tools</b>: Figma, Canva</li>
   </ul>
 </p>
@@ -53,7 +53,7 @@ I'm a 2nd-year IT student, and while I'm still exploring which path to take, I'm
 
 Thanks for stopping by! Feel free to check out my projects or connect with me:
 
-**Email**: kristine@example.com  
+**Email**: kristinecastres10@gmail.com  
 **LinkedIn**: [www.linkedin.com/in/kristinecastres](https://www.linkedin.com/in/kristinecastres)
 
 </div>
