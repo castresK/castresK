@@ -11,7 +11,7 @@ I'm a 2nd-year IT student, and while I'm still exploring which path to take, I'm
 
 ## 🔭 What I'm Currently Working On
 <p align="center">
-  <ul style="list-style-position: inside;">
+  <ul style="list-style-position: inside; list-style: none;">
     <li><b>PetPal</b> – A virtual pet game built in Unity 🐾</li>
     <li><b>Booked Me</b> – A room reservation system 📚</li>
     <li><b>Secret</b> – A social media website project 🍳</li>
@@ -29,7 +29,7 @@ I'm a 2nd-year IT student, and while I'm still exploring which path to take, I'm
 
 ## 💬 Ask Me About
 <p align="center">
-  <ul style="list-style-position: inside;">
+  <ul style="list-style-position: inside; list-style: none;">
     <li><b>UI/UX Design</b></li>
     <li><b>Web design and development</b></li>
     <li><b>Game development</b></li>
@@ -40,7 +40,7 @@ I'm a 2nd-year IT student, and while I'm still exploring which path to take, I'm
 
 ## 💻 Tech Stack
 <p align="center">
-  <ul style="list-style-position: inside;">
+  <ul style="list-style-position: inside; list-style: none;">
     <li><b>Languages</b>: Kotlin, C#, PHP, HTML/CSS, JavaScript, SQL</li>
     <li><b>Frameworks/Libraries</b>: Unity, Flutter, Android Studio</li>
     <li><b>Tools</b>: Git, Visual Studio Code</li>
