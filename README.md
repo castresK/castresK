@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome to Kristine's GitHub Space 👋✨
+# Welcome 👋✨
 
 ![Kristine's Banner](kristine.png)
 
