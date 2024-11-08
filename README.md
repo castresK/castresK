@@ -2,7 +2,7 @@
 
 # Welcome to Kristine's GitHub Space 👋✨
 
-![Kristine's Banner](Kristine.png)
+![Kristine's Banner](kristine.png)
 
 ## 🌱 About Me
 Hi! I'm Kristine, a passionate developer who enjoys creating fun and interactive applications, especially in **Unity** and **Flutter**. While I love coding, I find designing equally exciting. It's all about making creative projects come to life! 😄
