@@ -1,57 +1,48 @@
 <div align="center">
 
-# Welcome 👋✨
+# Welcome! 👋✨  
 
-## 🌱 About Me
-Hi! I'm Kristine, a passionate developer who enjoys creating fun and interactive applications, especially in **Unity** and **Flutter**. While I love coding, I find designing equally exciting. It's all about making creative projects come to life! 😄
+### 🌱 About Me  
+Hi! I'm **Kristine**, a passionate developer who loves building **interactive applications** in **Unity** and **Flutter**. While I enjoy coding, **designing** excites me just as much—it’s all about bringing creative ideas to life! 🎨✨  
 
-I'm a 2nd-year IT student, and while I'm still exploring which path to take, I'm excited about the journey ahead! Let's see where it takes me next year!
+I'm a **2nd-year IT student** exploring different career paths and excited for the journey ahead! 🚀  
 
-## 🔭 What I'm Currently Working On
-<p align="center">
-  <ul style="list-style-position: inside; list-style: none;">
-    <li><b>PetPal</b> – A virtual pet game built in Unity 🐾</li>
-    <li><b>Booked Me</b> – A room reservation system 📚</li>
-    <li><b>Secret</b> – A social media website project 🍳</li>
-  </ul>
-</p>
+---
 
-## 🐋 What I'm Currently Learning
-<p align="center">
-  <ul style="list-style-position: inside;">
-    <li>Advanced <b>Unity</b> techniques</li>
-    <li><b>Mobile app development</b> using Flutter</li>
-    <li>More on <b>database integration</b> with Unity</li>
-  </ul>
-</p>
+### 🔭 What I'm Currently Working On  
+💡 **Projects in Progress:**  
+-  **PetPal** – A virtual pet game built in Unity  
+-  **Booked Me** – A room reservation system  
+-  **Secret** – A social media website project  
+-  **Baskit** – A mobile app e-commerce project
 
-## 💬 Ask Me About
-<p align="center">
-  <ul style="list-style-position: inside; list-style: none;">
-    <li><b>UI/UX Design</b></li>
-    <li><b>Web design and development</b></li>
-    <li><b>Game development</b></li>
-    <li><b>Balancing academic life with projects</b> and exploring new tech</li>
-    <li>Anything you're curious about! I'm always up for a discussion 😊</li>
-  </ul>
-</p>
+---
 
-## 💻 Tech Stack
-<p align="center">
-  <ul style="list-style-position: inside; list-style: none;">
-    <li><b>Languages</b>: Kotlin, C#, PHP, HTML/CSS, JavaScript, SQL</li>
-    <li><b>Frameworks/Libraries</b>: Unity, Flutter, Android Studio</li>
-    <li><b>Tools</b>: Git, Visual Studio Code</li>
-    <li><b>Design Tools</b>: Figma, Canva</li>
-  </ul>
-</p>
+### 🐋 What I'm Currently Learning  
+🚀 **Leveling Up My Skills:**  
+- Advanced **Unity** techniques 🕹️  
+- **Mobile app development** with Flutter and Kotlin 📱  
+- **Database integration** with Unity 🛠️  
 
-## 📊 GitHub Stats
-![Kristine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kristine&show_icons=true&theme=radical)
+---
 
-Thanks for stopping by! Feel free to check out my projects or connect with me:
+### 💬 Ask Me About  
+🎨 **UI/UX Design** | 🌍 **Web & Game Development** | ⚖️ **Balancing studies & projects**  
+💡 Always happy to discuss tech, creativity, or anything you're curious about! 😊  
 
-**Email**: kristinecastres10@gmail.com  
-**LinkedIn**: [www.linkedin.com/in/kristinecastres](https://www.linkedin.com/in/kristinecastres)
+---
+
+### 💻 Tech Stack  
+🛠️ **Languages:** Kotlin, C#, PHP, HTML/CSS, JavaScript, SQL  
+📦 **Frameworks/Libraries:** Unity, Flutter, Android Studio  
+🖥️ **Tools:** Git, VS Code  
+🎨 **Design Tools:** Figma, Canva  
+
+---
+
+
+### 📬 Let's Connect!  
+📧 **Email:** kristinecastres10@gmail.com  
+🔗 **LinkedIn:** [Kristine Castres](https://www.linkedin.com/in/kristinecastres)  
 
 </div>
