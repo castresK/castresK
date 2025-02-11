@@ -1,8 +1,7 @@
-<div align="center">
 
-# Welcome! 👋✨  
+# Hii! 👋✨  
 
-### 🌱 About Me  
+###  About Me  
 Hi! I'm **Kristine**, a passionate developer who loves building **interactive applications** in **Unity** and **Flutter**. While I enjoy coding, **designing** excites me just as much—it’s all about bringing creative ideas to life! 🎨✨  
 
 I'm a **2nd-year IT student** exploring different career paths and excited for the journey ahead! 🚀  
