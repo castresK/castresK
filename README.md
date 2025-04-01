@@ -1,47 +1,48 @@
+# Kristine Castres 👋
 
-# Hii! 👋✨  
+## About Me
+I'm **Kristine**, a passionate developer specializing in interactive applications built with **Unity** and **Flutter**. My interests span both development and design, with a focus on creating engaging user experiences. Currently pursuing my degree as a 2nd-year IT student, I'm actively exploring various technological domains and career paths.
 
-###  About Me  
-Hi! I'm **Kristine**, a passionate developer who loves building **interactive applications** in **Unity** and **Flutter**. While I enjoy coding, **designing** excites me just as much—it’s all about bringing creative ideas to life! 🎨✨  
+## 🔭 Current Projects
+- **PetPal** – Virtual pet simulation developed in Unity
+- **Picture Whoo** – Guessing Game
+- **Secret** – Social media platform web application
+- **Baskit** – E-commerce mobile application
 
-I'm a **2nd-year IT student** exploring different career paths and excited for the journey ahead! 🚀  
+## 🌱 Professional Development
+I'm currently expanding my expertise in:
+- Advanced Unity development techniques and patterns
+- Cross-platform mobile application development with Flutter and Kotlin
+- Database architecture and integration with game development platforms
 
----
+## 💬 Areas of Expertise
+- UI/UX Design principles and implementation
+- Web and game development workflows
+- Project management and academic-professional balance
 
-### 🔭 What I'm Currently Working On  
-💡 **Projects in Progress:**  
--  **PetPal** – A virtual pet game built in Unity  
--  **Booked Me** – A room reservation system  
--  **Secret** – A social media website project  
--  **Baskit** – A mobile app e-commerce project
+## 💻 Technical Skills
 
----
+### Languages
+- Kotlin
+- C#
+- PHP
+- HTML/CSS
+- JavaScript
+- SQL
 
-### 🐋 What I'm Currently Learning  
-🚀 **Leveling Up My Skills:**  
-- Advanced **Unity** techniques 🕹️  
-- **Mobile app development** with Flutter and Kotlin 📱  
-- **Database integration** with Unity 🛠️  
+### Frameworks & Platforms
+- Unity
+- Flutter
+- Android Studio
 
----
+### Development Tools
+- Git
+- Visual Studio Code
 
-### 💬 Ask Me About  
-🎨 **UI/UX Design** | 🌍 **Web & Game Development** | ⚖️ **Balancing studies & projects**  
-💡 Always happy to discuss tech, creativity, or anything you're curious about! 😊  
+### Design
+- Figma
+- Canva
 
----
-
-### 💻 Tech Stack  
-🛠️ **Languages:** Kotlin, C#, PHP, HTML/CSS, JavaScript, SQL  
-📦 **Frameworks/Libraries:** Unity, Flutter, Android Studio  
-🖥️ **Tools:** Git, VS Code  
-🎨 **Design Tools:** Figma, Canva  
-
----
-
-
-### 📬 Let's Connect!  
-📧 **Email:** kristinecastres10@gmail.com  
-🔗 **LinkedIn:** [Kristine Castres](https://www.linkedin.com/in/kristinecastres)  
-
-</div>
+## 📫 Contact Information
+- **Email:** kristinecastres10@gmail.com
+- **LinkedIn:** [Kristine Castres](https://www.linkedin.com/in/kristinecastres)
